@@ -1,0 +1,19 @@
+*{
+    box-sizing: border-box;
+}
+body,ul,li,p,ol,h1,h2,h3,h4,h5,h6,div,span{
+    margin: 0px;
+    padding: 0px;
+}
+*{
+    font-family:"SF Pro Text","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+}
+header, h1, h2, h3, h4, h5, h6, p, span, li, a, div{
+    user-select: none; 
+}
+img{
+    pointer-events: none;
+}
+html{
+    overflow-x:  hidden;
+}
