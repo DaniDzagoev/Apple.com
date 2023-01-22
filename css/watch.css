@@ -581,3 +581,15 @@ body{
     padding-top: 40px;
 }
 /* footer */
+
+
+
+
+
+@media screen and (max-width: 992px) {
+    .navbar-collapse{
+        background-color: rgba(0,0,0,0.8)!important;
+        padding-top: 8px;
+        margin-top: 5.741px;
+    }
+}

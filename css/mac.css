@@ -585,3 +585,182 @@ header{
     font-weight: 300;
 }
 /* footer */
+
+
+
+@media screen and (max-width: 992px) {
+    .navbar-collapse{
+        background-color: rgba(0,0,0,0.8)!important;
+        padding-top: 8px;
+        margin-top: 5.741px;
+    }
+
+}
+
+@media screen and (max-width: 557px) {
+    .first-section{
+        height: 104px;
+        display: flex;
+        overflow: overlay;
+    }
+    .second-banner-text h2 {
+        font-size: 42px;
+    }
+    .second-banner-text h3 {
+        font-size: 18px;
+    }
+    .second-banner-text p:nth-child(4) {
+        font-size: 12px;
+    }
+    .second-banner-text div a:nth-child(1) {
+        font-size: 12px;
+    }
+    .second-banner-text div a:nth-child(2) {
+        font-size: 12px;
+    }
+    .second-banner-img img {
+        width: 56%;
+        padding-top: 17px;
+    }
+    .third-section {
+        padding: 40px 0px 20px;
+    }
+    .third-banner-text h2 {
+        font-size: 38px;
+        font-weight: 400;
+    }
+    .third-banner-text h3 {
+        font-size: 24px;
+        font-weight: 400;
+    }
+    .third-banner-text p:nth-child(4) {
+        margin-top: 0.35em;
+        font-size: 16px;
+    }
+    .third-banner-text div a:nth-child(1) {
+        font-size: 12px;
+    }
+    .third-banner-text div a:nth-child(2) {
+        font-size: 12px;
+    }
+    .third-banner-text div{
+        margin-top: 15px;
+    }
+    .third-banner-img img {
+        width: 100%;
+    }
+    .fourth-section {
+        padding-left: 12px;
+    }
+    .fourth-section{
+        padding: 10px;
+    }
+    .fifeth-section{
+        padding: 10px 18px;
+        margin-left: 12px; 
+    }
+    .fifeth-banner-text h4 {
+        font-size: 9px;
+    }
+    .fifeth-banner-text h2 {
+        font-size: 14px;
+    }
+    .fifeth-banner-text p:nth-child(3) {
+        margin-top: 9px;
+        font-size: 6px;
+    }
+    .fifeth-banner-text div a {
+        padding-top: 4px;
+        font-size: 6px;
+    }
+    .fifeth-banner-text {
+        position: absolute;
+        top: 27%;
+        left: 0px;
+    }
+    .sixeth-section {
+        padding: 10px 5px;
+        margin-left: 11px;
+    }
+    .sixeth-banner-text {
+        position: absolute;
+        top: 17%;
+        left: 35px;
+    }
+    .sixeth-banner-text h2 {
+        font-size: 12px;
+        width: 34%;
+    }
+    .sixeth-banner-text p:nth-child(2) {
+        margin-top: 6px;
+        font-size: 8px;
+        width: 34%;
+    }
+    .sixeth-banner-text div a {
+        margin-top: 5px;
+        font-size: 7px;
+        width: 34%;
+    }
+    .now{
+        flex-wrap: nowrap;
+    }
+    .seventh-1-banner-img img {
+        width: 93%;
+        margin: 0px 0px 0px 24px;
+    }
+    .seventh-2-banner-img img {
+        width: 93%;
+        margin: 0px 0px 0px 5px;
+    }
+    .seventh-1-banner-text h4 {
+        font-size: 13px;
+        margin-bottom: 0px;
+        width: 60%;
+    }
+    .seventh-1-banner-text h2 {
+        font-size: 10px;
+        width: 60%;
+    }
+    .seventh-1-banner-text div {
+        width: 60%;
+        text-align: center;
+        margin-top: -5px;
+    }
+    .seventh-1-banner-text div a {
+        font-size: 6px;
+        padding-left: 7px;
+        padding-right: 7px;
+        padding-top: 4px;
+        padding-bottom: 4px;
+    }
+    .seventh-1-banner-text {
+        position: absolute;
+        top: 6%;
+        left: 42%;
+    }
+    .seventh-2-banner-text h4 {
+        margin-bottom: 2px;
+        font-size: 10px;
+    }
+    .seventh-2-banner-text h2 {
+        font-size: 10px;
+    }
+    .seventh-2-banner-text p {
+        margin-top: 5px;
+        font-size: 5px;
+    }    
+    .seventh-2-banner-text div {
+        margin-top: -12px;
+    }
+    .seventh-2-banner-text div a {
+        color: #06c;
+        font-size: 5px;
+    }
+    .seventh-2-banner-text {
+        position: absolute;
+        top: 7%;
+        left: 20%;
+    }
+            
+    
+}

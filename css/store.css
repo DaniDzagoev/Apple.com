@@ -642,3 +642,54 @@ body{
         margin-top: 5.741px;
     }
 }
+@media screen and (max-width: 557px) {
+    .first-banner-text h2 {
+        font-size: 24px;
+    }
+    .now{
+        flex-wrap: nowrap;
+    }
+    .scrolling-wrapper {
+        padding-left: 30px;
+    }
+    .second-banner-title h2 {
+        font-size: 17px;
+    }
+    .third-banner-title h3 {
+        font-size: 17px;
+    }
+    .fourth-banner-title h3 {
+        font-size: 17px;
+    }
+    .fifeth-banner-title h2 {
+        font-size: 17px;
+    }
+    .card-3 img {
+        width: 160px;
+        height: 180px;
+        border-radius: 18px;
+    }
+    .card-3 div h3{
+        font-size: 7px;
+    }    
+    .card-3 div {
+        width: 97%;
+    }
+    .card-3 div span:nth-child(2) {
+        font-size: 9px;
+    }
+    .card-4 img {
+        width: 160px;
+        height: 80px;
+    }    
+    .card-4 span {
+        position: absolute;
+        padding: 10px 30px 0px 17px;
+    }
+    .card-4 span {
+        font-size: 7px;
+    }    
+    .first-banner-text {
+        padding: 80px 8px 64px;
+    }
+}
