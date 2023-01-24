@@ -17,3 +17,24 @@ img{
 html{
     overflow-x:  hidden;
 }
+@media screen and (max-width: 557px) {
+    .footer-child-1 ul li {
+        font-size: 7px !important;
+    }
+    .footer-div-lists label h3 {
+        font-size: 8px !important;
+    }
+    .footer-div-lists ul li a {
+        font-size: 8px !important;
+    }
+    .footer-div-lists ul li {
+        margin-bottom: -4px !important;
+    }    
+    label {
+        display: inline-block;
+        margin-bottom: 1px !important;
+    }
+    .footer-div-lists div {
+        padding-top: 8px !important;
+    }
+}

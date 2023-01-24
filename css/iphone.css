@@ -725,3 +725,208 @@ body{
         margin-top: 5.741px;
     }
 }
+@media screen and (max-width: 557px) {
+    .now{
+        flex-wrap: nowrap;
+    }
+    .first-section{
+        height: 100px;
+        display: flex;
+        overflow: overlay;
+        padding-left: 20px;
+        overflow-x: hidden;
+    }
+    .i-list div {
+        margin-bottom: 13px;
+    }
+    .second-banner-text {
+        text-align: center;
+        padding-top: 69px;
+    }
+    .second-banner-text p:nth-child(1) {
+        color: #86868b;
+        font-size: 14px;
+    }
+    .second-banner-text h4 {
+        font-size: 17px;
+        margin-top: 1px;
+        color: white;
+    }
+    .second-banner-text h2 {
+        margin-top: 4px;
+        font-size: 34px;
+    }
+    .second-banner-text p:nth-child(4) {
+        margin-top: 6px;
+        font-size: 12px;
+        color: white;
+    }
+    .second-banner-text div a:nth-child(1) {
+        font-size: 9px;
+        padding-left: 12px;
+        padding-right: 12px;
+        padding-top: 5px;
+        padding-bottom: 5px;
+    }
+    .second-banner-text div a:nth-child(2){
+        font-size: 10px;
+    } 
+    .third-banner-text {
+        text-align: center;
+        padding-top: 69px;
+    }
+    .third-banner-text p:nth-child(1) {
+        color: #86868b;
+        font-size: 14px;
+    }
+    .third-banner-text h4 {
+        font-size: 17px;
+        margin-top: 1px;
+    }
+    .third-banner-text h2 {
+        margin-top: 4px;
+        font-size: 34px;
+    }
+    .third-banner-text p:nth-child(4) {
+        margin-top: 6px;
+        font-size: 12px;
+    }
+    .third-banner-text div a:nth-child(1) {
+        font-size: 9px;
+        padding-left: 12px;
+        padding-right: 12px;
+        padding-top: 5px;
+        padding-bottom: 5px;
+    }
+    .third-banner-text div a:nth-child(2){
+        font-size: 10px;
+    } 
+    .fourth-banner-text h4 {
+        font-size: 14px;
+    }
+    .fourth-banner-text h2 {
+        font-size: 19px;
+    }
+    .fourth-banner-text p {
+        margin-top: 10px;
+        font-size: 7px;
+        font-weight: 500;
+        padding-left: 5px;
+    }
+    .fourth-banner-text div a:nth-child(1){
+        font-size: 9px;
+        padding-left: 12px;
+        padding-right: 12px;
+        padding-top: 5px;
+        padding-bottom: 5px;
+    }
+    .fourth-banner-text div a:nth-child(2){
+        font-size: 9px;
+    }
+    .fourth-banner-img img {
+        width: 84%;
+    }
+    .sixth-section div h2 {
+        font-size: 25px;
+        padding-top: 69px;
+    }
+    .seventh-banner h4 {
+        font-size: 16px;
+        margin-bottom: 10px;
+        text-align: center;
+    }
+    .seventh-banner h2 {
+        margin-top: 13px;
+        font-size: 14px;
+        width: 96%;
+        text-align: center;
+        margin: 0 auto;
+    }
+    .banks p {
+        margin-top: 22px;
+        color: #6e6e73;
+        font-size: 14px;
+        font-weight: 400;
+        width: 60%;
+        text-align: center;
+        margin: 20px auto;
+    }
+    .banks-i div:nth-child(1) img {
+        width: 83px;
+    }
+    .banks-i div:nth-child(3) img {
+        width: 82px;
+    }
+    .banks-i div:nth-child(4) img {
+        width: 82px;
+    }
+    .seventh-banner p:nth-child(4) {
+        font-size: 9px;
+        padding-left: 12px;
+        padding-right: 12px;
+        padding-top: 5px;
+        padding-bottom: 5px;
+    }
+    .banks-i {
+        padding-top: 30px;
+        padding-bottom: 8px;
+    }
+    .eighth-1-banner-text h2 {
+        font-size: 9px;
+    }
+    .eighth-1-banner-text p {
+        margin: 4px auto;
+        font-size: 5px;
+        width: 83%;
+    }
+    .eighth-1-banner-text div a:nth-child(1){
+        font-size: 6px;
+    }
+    .eighth-1-banner-text div {
+        width: 73%;
+        text-align: center;
+        margin-top: 14px;
+        margin: -14px auto 0px auto;
+    }
+    .eighth-1-banner-text {
+        position: absolute;
+        top: 6%;
+        left: 34%;
+    }
+    .eighth-2-banner-text h2 {
+        font-size: 9px;
+        line-height: 9.5px;
+    }
+    .eighth-2-banner-text p {
+        margin: 4px auto;
+        font-size: 5px;
+        width: 83%;
+    }
+    .eighth-2-banner-text div a:nth-child(1){
+        font-size: 6px;
+    }
+    .eighth-2-banner-text div {
+        width: 73%;
+        text-align: center;
+        margin-top: 14px;
+        margin: -14px auto 0px auto;
+    }
+    .eighth-2-banner-text {
+        position: absolute;
+        top: 6%;
+        left: 34%;
+    }
+    .nineth-banner-text h2 {
+        font-size: 12px;
+        text-align: center;
+    }
+    .nineth-banner p {
+        margin-top: 5px;
+        font-size: 5px;
+    }
+    .nineth-banner div a {
+        margin-top: -4px;
+        font-size: 8px;
+        color: #06c;
+    }
+}

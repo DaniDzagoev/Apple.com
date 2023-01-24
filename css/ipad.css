@@ -673,3 +673,238 @@ header{
         margin-top: 5.741px;
     }
 }
+
+@media screen and (max-width: 557px) {
+    .now{
+        flex-wrap: nowrap;
+    }
+    .first-section{
+        height: 100px;
+        display: flex;
+        overflow: overlay;
+        padding-left: 20px;
+        overflow-x: hidden;
+    }
+    .second-banner-img img{
+        width: 233px;
+        height: auto;
+        margin-left: 16px;
+    }
+    .second-banner-text h2 {
+        font-size: 36px;
+    }
+    .second-banner-text h3 {
+        font-size: 14px;
+    }
+    .second-banner-text p:nth-child(4) {
+        margin-top: 0.35em;
+        font-size: 13px;
+    }
+    .second-banner-text div a:nth-child(1) {
+        font-size: 11px;
+    }    
+    .second-banner-text div a:nth-child(2) {
+        font-size: 11px;
+    }    
+    .third-banner-img img {
+        width: 233px;
+        height: auto;
+        overflow: hidden;
+    }
+    .third-banner-text h2 {
+        font-size: 28px;
+    }
+    .third-banner-text h3 {
+        font-size: 13px;
+    }
+    .m2 {
+        width: 32px;
+    }
+    .third-banner-text p:nth-child(4) {
+        margin-top: 0.35em;
+        font-size: 13px;
+    }
+    .third-banner-text div a:nth-child(1) {
+        font-size: 10px;
+    }    
+    .third-banner-text div a:nth-child(2) {
+        font-size: 10px;
+    }  
+    .seventh-1-banner-img img {
+        width: 93%;
+        margin: 0px 0px 0px 24px;
+    }
+    .seventh-2-banner-img img {
+        width: 93%;
+        margin: 0px 0px 0px 5px;
+    }
+    .seventh-1-banner-text h4 {
+        font-size: 13px;
+        margin-bottom: 0px;
+        width: 60%;
+    }
+    .seventh-1-banner-text h2 {
+        font-size: 8px;
+        width: 60%;
+    }
+    .seventh-1-banner-text p {
+        margin: 6px auto;
+        font-size: 5px;
+    }
+    .seventh-2-banner-text h2{
+        font-size: 8px;
+        width: 60%;
+        line-height: 1.381;
+    }
+    .seventh-1-banner-text div {
+        width: 60%;
+        text-align: center;
+        margin-top: -12px;
+    }
+    .seventh-1-banner-text div a {
+        font-size: 4px;
+        padding-left: 7px;
+        padding-right: 7px;
+        padding-top: 4px;
+        padding-bottom: 4px;
+    }
+    .seventh-1-banner-text {
+        position: absolute;
+        top: 6%;
+        left: 20%;
+    }
+    .seventh-2-banner-text h4 {
+        margin-bottom: 2px;
+        font-size: 10px;
+    }
+    .seventh-2-banner-text h2 {
+        font-size: 10px;
+    }
+    .seventh-2-banner-text p {
+        margin-top: 5px;
+        font-size: 5px;
+    }    
+    .seventh-2-banner-text div a {
+        font-size: 4px;
+        padding-left: 7px;
+        padding-right: 7px;
+        padding-top: 4px;
+        padding-bottom: 4px;
+    }
+    .seventh-2-banner-text div {
+        width: 60%;
+        text-align: center;
+        margin-top: -30px;
+    }
+    .seventh-2-banner-text div a {
+        color: #06c;
+    }
+    .seventh-2-banner-text {
+        position: absolute;
+        top: 7%;
+        left: 20%;
+    }
+    .seventh-2-banner-text h2 {
+        font-size: 8px;
+    }
+    .seventh-2-banner-text {
+        position: absolute;
+        top: 7%;
+        left: -2%;
+    }
+    .fifeth-banner div img {
+        width: 20px;
+        height: 20px;
+        margin-bottom: 8px;
+    }
+    .fifeth-banner div h3 {
+        font-size: 8px;
+    }
+    .fifeth-banner div p {
+        font-size: 8px;
+        font-weight: 400;
+        width: 91.66667%;
+        margin: 0 auto;
+    }
+    .fifeth-banner div div a {
+        color: #06c;
+        margin-top: 3px;
+        font-size: 8px;
+        font-weight: 400;
+    }
+    .eighth-banner-1-text {
+        position: absolute;
+        display: flex;
+        top: 7px;
+    }
+    .eighth-banner-1-text h2 {
+        font-size: 12px;
+        line-height: 1.08349;
+        font-weight: 500;
+    }
+    .eighth-banner-1-text p {
+        font-size: 9px;
+        line-height: 1.381;
+        font-weight: 400;
+        margin-top: 3px;
+    }
+    .eighth-banner-1-text div a:nth-child(1) {
+        margin-top: 5px;
+        margin-right: 5px;
+        color: #06c;
+        font-size: 7px;
+    }
+    .eighth-banner-1-text div a:nth-child(2) {
+        margin-top: 4px;
+        margin-left: 5px;
+        color: #06c;
+        font-size: 7px;
+    }
+    .eighth-banner-1-text div{
+        margin-top: -6px;
+    }
+    .sixeth-section div div h2 {
+        margin: 0 auto;
+        font-size: 22px;
+    }
+    .sixeth-section {
+        background-color: #f5f5f7;
+        padding-top: 50px;
+    }
+    .eighth-section {
+        background-color: #f5f5f7;
+        padding-top: 50px;
+    }
+    .eighth-banner-2-text h2 {
+        font-size: 12px;
+        line-height: 1.08349;
+        font-weight: 500;
+    }
+    .eighth-banner-2-text p {
+        font-size: 9px;
+        line-height: 1.381;
+        font-weight: 400;
+        margin-top: 3px;
+    }
+    .eighth-banner-2-text div a:nth-child(1) {
+        margin-top: 5px;
+        margin-right: 5px;
+        color: #06c;
+        font-size: 7px;
+    }
+    .eighth-banner-2-text div a:nth-child(2) {
+        margin-top: 4px;
+        margin-left: 5px;
+        color: #06c;
+        font-size: 7px;
+    }
+    .eighth-banner-2-text div{
+        margin-top: -6px;
+    }
+    .eighth-banner-2-text {
+        position: absolute;
+        display: flex;
+        bottom: 4px;
+    }
+}
+

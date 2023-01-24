@@ -593,3 +593,155 @@ body{
         margin-top: 5.741px;
     }
 }
+@media screen and (max-width: 557px) {
+    .now{
+        flex-wrap: nowrap;
+    }
+    .first-section{
+        height: 105px;
+        display: flex;
+        overflow: overlay;
+        padding-left: 20px;
+        overflow-x: hidden;
+    }
+    .second-banner-text h5 {
+        font-size: 18px;
+    }
+    .second-banner-text h5 img {
+        height: 18px;
+    }
+    .second-banner-text p {
+        font-size: 9px;
+        margin-bottom: -10px;
+    }
+    .second-banner-text h2 {
+        font-size: 26px;
+    }
+    .second-banner-text span {
+        margin-top: 1px;
+        margin-bottom: 9px;
+        font-size: 14px;
+    }
+    .second-banner-text div {
+        margin-top: 3px;
+    }
+    .second-banner-text div a {
+        font-size: 9px;
+        padding-left: 12px;
+        padding-right: 12px;
+        padding-top: 5px;
+        padding-bottom: 5px;
+    }
+    .second-banner-img{
+        text-align: center;
+    }
+    .second-banner-img img {
+        width: 74%;
+        padding-top: 28px;
+        padding-bottom: 37px;
+    }
+    .third-banner-img {
+        transform: translateX(-32px);
+    }
+    .third-banner-text h5 {
+        font-size: 18px;
+        flex-wrap: nowrap;
+    }
+    .third-banner-text h5 img {
+        height: 18px;
+    }
+    .third-banner-text p {
+        font-size: 9px;
+        margin-bottom: 5px;
+    }
+    .third-banner-text h2 {
+        font-size: 18px;
+    }
+    .third-banner-text span {
+        margin-top: 1px;
+        margin-bottom: 9px;
+        font-size: 14px;
+    }
+    .third-banner-text div {
+        margin-top: 3px;
+    }
+    .third-banner-text div a {
+        font-size: 9px;
+        padding-left: 12px;
+        padding-right: 12px;
+        padding-top: 5px;
+        padding-bottom: 5px;
+    }
+    .third-banner-text span:nth-child(4) {
+        margin-top: 6px;
+        margin-bottom: 0px;
+        font-size: 11px;
+    }
+    .third-banner-text {
+        transform: translateX(-71px);
+    }
+    .fourth-banner-text h5 {
+        font-size: 18px;
+        flex-wrap: nowrap;
+    }
+    .fourth-banner-text h5 img {
+        height: 18px;
+    }
+    .fourth-banner-text p {
+        font-size: 9px;
+        margin-bottom: 5px;
+    }
+    .fourth-banner-text h2 {
+        font-size: 13px;
+    }
+    .fourth-banner-text span {
+        margin-top: 1px;
+        margin-bottom: 9px;
+        font-size: 14px;
+    }
+    .fourth-banner-text div {
+        margin-top: 3px;
+    }
+    .fourth-banner-text div a {
+        font-size: 9px;
+        padding-left: 12px;
+        padding-right: 12px;
+        padding-top: 5px;
+        padding-bottom: 5px;
+    }
+    .fourth-banner-text span:nth-child(4) {
+        margin-top: 6px;
+        margin-bottom: 0px;
+        font-size: 11px;
+    }
+    .fourth-banner-text {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-content: flex-start;
+        margin-left: 36px;
+    }
+    .fourth-banner-img {
+        transform: translateX(0px);
+    }
+    .fifeth-banner div img {
+        width: 20px;
+        height: 20px;
+        margin-bottom: 8px;
+    }
+    .fifeth-banner div h3 {
+        font-size: 8px;
+    }
+    .fifeth-banner div p {
+        font-size: 8px;
+        font-weight: 400;
+        width: 91.66667%;
+        margin: 0 auto;
+    }
+    .fifeth-banner div div a {
+        color: #06c;
+        margin-top: 3px;
+        font-size: 8px;
+        font-weight: 400;
+    }
+}
